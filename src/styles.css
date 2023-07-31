@@ -1,0 +1,37 @@
+.App {
+    font-family: cursive;
+    text-align: center;
+    background-color: #3c675d;
+  }
+  
+  ul {
+    list-style-type: none;
+    color: #00e1ad;
+    background-color: #6ceacd;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #40a08a;
+  }
+  body {
+    background-color: turquoise;
+  }
+  active_class{
+    background-color: grey;
+    color:aqua;
+    border-bottom: 1px solid green;
+  }
+  
